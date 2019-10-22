@@ -31,7 +31,6 @@ tags:
 以及 人是一样什么东西   
 见自我 见天地 见众生  
 
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/jiexingluo/jiexingluo.github.io/img/BG.jpg"/></div>
 
 ![](/img/BG.jpg)
 
