@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
   gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: e6ff4fd0c092f9988f91                            #生成的clientID
-  clientSecret: ef7a80c735e5165a586f2269d8d47f4cbf9cfb6e    #生成的clientSecret
+  clientID: 76d9199380c8f482a205                            #生成的clientID
+  clientSecret: 1df13624eb516e753bd6a97bdf073663782bf9a0    #生成的clientSecret
   repo: jiexingluo.github.io    #仓库名称
   owner: jiexingluo    #github用户名
   admin: jiexingluo
