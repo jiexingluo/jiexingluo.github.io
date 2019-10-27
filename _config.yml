@@ -60,24 +60,24 @@ kramdown:
 # disqus_username: Jiexing
 
 # Gitalk
-# gitalk:
-#   enable: true    #是否开启Gitalk评论
-#   clientID: e6ff4fd0c092f9988f91                            #生成的clientID
-#   clientSecret: ef7a80c735e5165a586f2269d8d47f4cbf9cfb6e    #生成的clientSecret
-#   repo: jiexingluo.github.io    #仓库名称
-#   owner: jiexingluo    #github用户名
-#   admin: jiexingluo
-#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-
   gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: e6ff4fd0c092f9988f91                            #生成的clientID
+  clientSecret: ef7a80c735e5165a586f2269d8d47f4cbf9cfb6e    #生成的clientSecret
+  repo: jiexingluo.github.io    #仓库名称
+  owner: jiexingluo    #github用户名
+  admin: jiexingluo
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
+  # gitalk:
+  # enable: true    #是否开启Gitalk评论
+  # clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  # clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  # repo: qiubaiying.github.io    #仓库名称
+  # owner: qiubaiying    #github用户名
+  # admin: qiubaiying
+  # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
