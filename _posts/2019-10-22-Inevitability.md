@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Inevitablity and Failures of Tryouts
-subtitle:   what's the point then...
+subtitle:   What's the point then...
 date:       2019-11-22
 author:     Jiexing
 header-img: img/post-cat.jpg
@@ -33,6 +33,7 @@ tags:
 
 >从公司战略的把控角度来说，到底是专注一个战略方向更容易成功还是灵活多变更容易成功，我看还是运气好更容易成功。
 
+>未来没法预测，我们只能坚持做正确的决定，结果是什么样子并不重要。
 
 + 关于商业的肤浅
 >为什么创业公司都喜欢宣传融资额？好像融到资就成功了一样，而不是炫耀收入和利润，做公司不是应该以收入和利润为主吗？  
@@ -117,7 +118,7 @@ tags:
 然后完了又很condescending
 
 ## 光锥之内皆命运。一命二运三风水。四修阴德五读书。
->未来没法预测，我们只能坚持做正确的决定，结果是什么样子并不重要。
+
 
 ## 试着和事情一起成长 以及 和自我和解
 blend in
