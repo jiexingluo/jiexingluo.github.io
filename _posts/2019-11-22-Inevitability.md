@@ -12,7 +12,7 @@ tags:
 
 看完快一个月 当时的内心纠葛和那种强烈的代入感好像貌似已经过去  
 从emotional上来说可能更多是acceptance？姑且算是顺势而为吧    
-总而言之在那之后看完小岛经济学（又是奥派巨著）和悉达多（又是spiritual novel）甚至还要加上一本摄影笔记(又是superficial的技术)之后 终于可以来记个笔记2222222  
+总而言之在那之后看完小岛经济学（又是奥派巨著）和悉达多（又是spiritual novel）甚至还要加上一本摄影笔记(又是superficial的技术)之后 终于可以来记个笔记   
 好像现在来看 更重要的其实是后面的   
 就是在知道这个inevitability 这个康波（万事皆投资） 这个诸行无常诸漏皆苦之后的      
 ***what is the point then?***  
@@ -141,8 +141,7 @@ What's the point then?
 **the journey itself is the reward**   
 **而且也许it's the only reward**  
 一家公司和一个个人一样 终点都是死亡  
-
-这个其实很凯恩斯（年纪越大真实不可避免的开始越来越右） 就是知道in the end all economic systems collapse  
+这个其实很凯恩斯（年纪越大真是不可避免的开始越来越右） 就是知道in the end all economic systems collapse  
 其实也很萨特 就是除了回答为什么不自杀其实没有什么值得探讨的哲学问题  
 其实也很佛陀 执相生老病死怨憎会爱别离求不得 都是轮回 向死而生 涅槃寂静  
 
@@ -151,18 +150,17 @@ What's the point then?
 又回归到怎么面对死亡的问题上  
 宗教 佛陀 哲学 科学 给出过的这么多的答案  
 人的自由意志是如此含混的一件事情 以至于作为个人必须竭力内观才得以获得自由或者直接疯掉  
-好像还都挺酷的  
-对个人来说 好像我会去选择那个至少看起来比较酷一点的答案 这其实很不rational 也没有什么证伪的支撑 但是这个实践的过程很rational 很反人性 很酷    
+对个人来说 好像至少看起来比较酷一点挺重要的 这其实很不rational 也没有什么证伪没有什么演绎很不Popper    
+但是这个实践的**过程**很rational 很反人性 很酷    
 回到初心   
 做一些不这么自私的基因的事情    
 做一些困难的事情    
-做一些不是这么normal的事情（你要Floyd的深究就是误以为自己有自由意志有个人实现的一种无意义的抗争和狡辩好像还蛮悲壮的样子当然也有可能你也没有这么不同到最后他还是自私的基因的说辞 不过从人生无意义的角度出发最好的判断手段无非是此刻的感受的话这一刻的distinguishing其实somehow令人觉得很开心已经是一件足够的事情）    
+做一些不是这么normal的事情    
 如果这有意义的话 酷一点可能已经是一个相较而言比较reasonable的答案了 
-
 blend in  
 start small  
 stay humble  
-也不为了别人什么 还是很自私的为了自己 在资本主义的基本假设里纯粹理性人 somehow这样的利己主义最后获得了一个生产力不断增长的利他的结果（所以说还是least evil的那个社会制度对吧）  
+很自私的利己 很资本主义里的纯粹理性假设（所以说就近看还是least evil的那个社会制度）  
 来做一些不这么pedestrian的事情(be someone并不重要 do something才重要）  
 and   
 have fun  
@@ -171,6 +169,3 @@ have fun
 >如果我们不去问为什么，而是指直接去探究现象所发生的重要事实。往往我们可以发现，事实会引导我们去找到答案。——Wittgenstein（同时也是Hayek他大表哥）  
 
 这点在逻辑上好像之前听Andrew Ng在课上讲为什么不关心trolley dilemma其实是一个道理 从某种程度上来接受现象 然后心平气和的去观察事实 可能somehow反而更容易得到答案
-
-所以  
-good luck and have fun with all 折腾的 souls
