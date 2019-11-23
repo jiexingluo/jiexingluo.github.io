@@ -9,6 +9,7 @@ catalog: true
 tags:
     - LifeHacking
 ---
+[TOC]
 
 # Know how and Know why
 ## 分清手段和目的
