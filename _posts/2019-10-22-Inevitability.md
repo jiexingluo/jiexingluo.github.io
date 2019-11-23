@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Inevitablity and Failures of Tryouts
+title:      Inevitability and Failures of Tryouts
 subtitle:   What's the point then...
 date:       2019-11-22
 author:     Jiexing
@@ -17,7 +17,7 @@ tags:
 从感性上来说可能更多是acceptance？也算是顺势而为吧    
 总而言之在那之后看完小岛经济学（嗯是的又是一本奥派巨著）和悉达多（嗯是的又是一本spiritual小说只不过走的比毛姆远的多的多）甚至还要加上一本摄影笔记之后 终于可以平心静气的来讲一讲  
 好像现在来看 更重要的其实是后面的   
-就是在知道这个inevitabilty 这个康波（好像一切都可以化为投资一样） 这个诸行无常诸漏皆苦（好像解构再解构最后还是回到只有自我一样）之后的      
+就是在知道这个inevitability 这个康波（好像一切都可以化为投资一样） 这个诸行无常诸漏皆苦（好像解构再解构最后还是回到只有自我一样）之后的      
 ***what is the point then?***  
 ***what you should do?***  
 是的实际中他们当然不像principle里面的说的你从错误中学习然后上一个台阶这么简单
@@ -131,5 +131,5 @@ have fun
 然后你看归结到最终的判断条件上 是不是have fun的点会更多一点
 更让自己爽到一点
 >如果我们不去问为什么，而是指直接去探究现象所发生的重要事实。往往我们可以发现，事实会引导我们去找到答案。——  Wittgenstein
-这点在逻辑上好像之前听Andrew Ng的课讲为什么不关心trolley dillema其实是一个道理 从某种程度上来接受现象 然后心平气和的去观察事实 可能somehow反而更容易得到答案
+这点在逻辑上好像之前听Andrew Ng的课讲为什么不关心trolley dilemma其实是一个道理 从某种程度上来接受现象 然后心平气和的去观察事实 可能somehow反而更容易得到答案
 
